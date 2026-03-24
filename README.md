@@ -19,4 +19,4 @@ I build developer tools and apps — mostly TypeScript, Swift, and infrastructur
 
 - 🌐 [intentweave.org](https://intentweave.org) · [engtwin.dev](https://engtwin.dev)
 - 📦 [@intentweave on npm](https://www.npmjs.com/org/intentweave)
-- 📧 hello@intentweave.org
+- 📧 hello@engtwin.dev
